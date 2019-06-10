@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Changing Alice.txt for new branch.
-Changing Alice.txt for diverging merge
+Changing for new branch.
+Changing diverging merge
+Changing for rebase
